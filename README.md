@@ -1,6 +1,7 @@
-# RosyGraph/noctu.vim
+# white paper noctu
 
-## a low-color, light Vim color scheme based on [noahfrederick/vim-noctu][2]
+a low-color, light Vim color scheme based on [noahfrederick/vim-noctu][1]
+that works for the colors defined in my terminal. your mileage may vary.
 
 ## good for:
 
@@ -10,8 +11,12 @@
 
 ## installation
 
-if you use vim-plug, put this line in your vimrc
+if you use vim-plug, put this line in your vimrc.
 
 ```Plug 'RosyGraph/vim-noctu'```
 
-[2]: https://github.com/noahfrederick/vim-noctu
+## example
+
+![screenshot](./screen.png)
+
+[1]: https://github.com/noahfrederick/vim-noctu
